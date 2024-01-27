@@ -7,6 +7,7 @@ Welcome to my portfolio! A documented summary of my projects in Data Analytics.
 - Python
 - Power BI
 - Tableau
+- Blended projects
 
 # SQL
 
@@ -23,3 +24,5 @@ Welcome to my portfolio! A documented summary of my projects in Data Analytics.
 # Tableau
 
 ---
+
+# Blended projects
