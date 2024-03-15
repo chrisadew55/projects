@@ -1,6 +1,6 @@
 # 💎 Christiana's projects
 
-Welcome to my portfolio! A documented summary of my projects in Data Analytics.
+Welcome to my portfolio! A brief documented summary of my projects in Data Analytics.
 
 ## 📖 Contents
 - SQL
