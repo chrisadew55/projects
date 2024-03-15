@@ -2,8 +2,8 @@
 
 Welcome to my portfolio! A brief documented summary of my projects in Data Analytics.
 
-## 📖 Contents
-- SQL
+## 📖 Projects
+- video game project notebook.ipynb
 - Python
 - Power BI
 - Tableau
