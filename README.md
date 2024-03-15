@@ -1,4 +1,4 @@
-# 💎 Christiana's featured projects
+# 💎 Featured projects
 
 Welcome to my portfolio! A brief documented summary of my projects in Data Analytics.
 
