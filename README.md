@@ -3,26 +3,11 @@
 Welcome to my portfolio! A brief documented summary of my projects in Data Analytics.
 
 ## 📖 Projects
-- video game project notebook.ipynb
+- [Student mental health](https://github.com/chrisadew55/student-mental-health.md/blob/main/student%20mental%20health.ipynb)
 - Python
 - Power BI
 - Tableau
 - Blended projects
 
-# SQL
 
----
 
-# Python
-
----
-
-# Power BI
-
----
-
-# Tableau
-
----
-
-# Blended projects
